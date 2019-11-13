@@ -1,0 +1,17 @@
+{
+  "name": "targetWatchDog",
+  "version": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "mailgun-js": "^0.22.0",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {}
+}
